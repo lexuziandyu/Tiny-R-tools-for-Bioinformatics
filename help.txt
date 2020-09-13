@@ -1,0 +1,4 @@
+This tiny tool is for you to deal with huge data of protein sequence files and help you mark the specific amino acid.
+Unfortunately, R language ability is needed. But trust me, it is the beginner-level.
+Any question please send mail to ryan_wang_cn@163.com
+Thanks!
